@@ -33,7 +33,7 @@ function update(updatedReview) {
       review[0];
     });
 }
-//used to set critics for movie reviews
+//used to set critics for movie reviews.
 async function setCritic(review) {
   review.critic = await readCritic(review.critic_id);
   return review;
