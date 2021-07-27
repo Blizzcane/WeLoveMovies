@@ -10,4 +10,5 @@ This is the backend server for the WeLoveMovies frontend [repo](https://github.c
  ### Built with:
  - Node.js, Knex.js, and Express.js
  - PostgreSQL(ElephantSQL)
+ - CORS
 
