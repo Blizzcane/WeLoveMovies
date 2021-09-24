@@ -5,6 +5,18 @@ This is the backend server for the WeLoveMovies frontend [repo](https://github.c
  ## Links
  - [Deployment](https://starter-movie-front-end-sandy.vercel.app/) 
 
+ ## Home
+ ![](./src/utils/home.png)
+
+ ## All Movies
+  ![](./src/utils/allMovies.png)
+
+ ## Movie Details
+  ![](./src/utils/movieView.png)
+
+ ## Theaters
+ ![](./src/utils/theaters.png)
+
  ## Features
  - Built an API using RESTful design principles
  - Access to relevant information through route and query parameters
